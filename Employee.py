@@ -7,6 +7,7 @@ class Employee:
 		print("The employee name is:",self.ename)
 		print("The employee no	is:",self.eno)
 		print("The employee salary:" ,self.esal)
+		print("Good morning")
 class Increment():
 	def modify(self):
 		self.esal=self.esal+10000
